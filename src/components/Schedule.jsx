@@ -4,7 +4,7 @@ import { SlOptions } from "react-icons/sl";
 
 const Schedule = () => {
   return (
-    <div  className='flex flex-col w-full lg:w-[94%]  h-48  bg-white px-4 gap-y-7' >
+    <div  className='flex flex-col w-full lg:w-[94%]    bg-white px-4 gap-y-7' >
 
     <div className='flex flex-row items-center justify-between w-full h-16 px-2  border-b-[2px] border-[#F6F7F9] rounded-md'>
 
